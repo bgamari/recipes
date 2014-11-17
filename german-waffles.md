@@ -1,6 +1,6 @@
 # Waffeln
 
- - one stick of butter (preferred unsalted)
+ - one half of a stick of butter (preferred unsalted)
  - 2 table spoons of sugar
  - optionally one pack of vanillin sugar
  - 3 eggs
