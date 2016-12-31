@@ -39,6 +39,6 @@
 ## Composing
 1. after pancake is done baking, and filling is made:
 get pancake on the plate, cut into as many pieces as needed, spread filling on it.
-2. optinoally sprinkle sugar or whipped cream or melted butter on it
+2. optionally sprinkle sugar or whipped cream or melted butter on it
 
 
